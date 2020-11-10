@@ -3,3 +3,4 @@ venv/
 *.pt
 __pycache__
 sequence/lstm/jazz_improvisation/output/jazz.midi
+sequence/lstm/emojifier/data/glove*
