@@ -4,4 +4,4 @@ venv/
 __pycache__
 sequence/lstm/jazz_improvisation/output/jazz.midi
 sequence/lstm/emojifier/data/glove*
-generative/gan/data/FashionMNIST/*
+generative/**/data/FashionMNIST/*
